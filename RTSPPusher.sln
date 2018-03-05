@@ -3,7 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27130.2036
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RTSPPusher", "RTSPPusher\RTSPPusher.csproj", "{95B36C2E-71F6-4835-BE3E-9F30FE479C8E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RTSPPusher", "RTSPPusher\RTSPPusher.csproj", "{95B36C2E-71F6-4835-BE3E-9F30FE479C8E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Document", "Document", "{D2074C89-B4B6-4245-8270-D890B0D53B87}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
